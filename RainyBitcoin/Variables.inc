@@ -3,8 +3,8 @@ DynamicVariables=1
 
 ;  Icon Colors
 Orange=#@#bitcoin.png
-Black=#@#bitcoin.png
-White=#@#bitcoin.png
+Black=#@#bitcoin_black.png
+White=#@#bitcoin_white.png
 
 ;  Currency Options
 USD="USD"
