@@ -8,9 +8,7 @@ TODO: Update line graph to be more useful.
 ### Installation
 - Copy RainyBitcoin dir to your Rainmeter skins folder. (C:\Users\Your Username\My Documents\Rainmeter\Skins)
 - Edit Options.inc to your liking
-- Enjoy a frontrow seat to panic selling tactics
-- ?????
-- Profit!
+- Enjoy a frontrow seat to panic sells
 
 
 ### Preview Screenshots
