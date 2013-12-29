@@ -17,5 +17,5 @@ Exchange=#MtGox#
 ;-- Line Color (Graph)
 ;   Options: Any rgba or hex value
 ;   e.g. 255,255,255,255 / ffffff
-MtGoxColor=FFCC33
-BitstampColor=3366FF
+MtGoxColor=246,148,23
+BitstampColor=145,203,31
