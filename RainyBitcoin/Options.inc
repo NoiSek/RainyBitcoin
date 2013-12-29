@@ -10,11 +10,11 @@ Bitcoin=#Orange#
 ;   Options: USD, AUD, CAD, CHF, CNY, DKK, EUR, GBP, HKD, JPY, NZD, PLN, RUB, SEK, SGD, THB\
 ;   Options: Yes, No
 Currency=#USD#
-ShowCurrency=#Yes#
 
 ;-- Exchange (Minimal Ticker Only)
 ;   Options: MtGox, Bitstamp
 Exchange=#MtGox#
+ShowCurrency=#Yes#
 
 ;-- Line Color (Graph)
 ;   Options: Any rgba or hex value
