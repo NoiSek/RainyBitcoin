@@ -7,8 +7,10 @@ DynamicVariables=1
 Bitcoin=#Orange#
 
 ;-- Currency (This only affects MtGox)
-;   Options: USD, AUD, CAD, CHF, CNY, DKK, EUR, GBP, HKD, JPY, NZD, PLN, RUB, SEK, SGD, THB
+;   Options: USD, AUD, CAD, CHF, CNY, DKK, EUR, GBP, HKD, JPY, NZD, PLN, RUB, SEK, SGD, THB\
+;   Options: Yes, No
 Currency=#USD#
+ShowCurrency=#Yes#
 
 ;-- Exchange (Minimal Ticker Only)
 ;   Options: MtGox, Bitstamp

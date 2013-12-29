@@ -1,6 +1,10 @@
 [Variables]
 DynamicVariables=1
 
+;  Binary Options
+Yes=0
+No=1
+
 ;  Icon Colors
 Orange=#@#bitcoin.png
 Black=#@#bitcoin_black.png
